@@ -1,4 +1,5 @@
 # univmess
+Project done by Sanket Sinha and S. Shushmita from SRM University.
 A python GUI based messenger for university students for reciving message on their mobile phone.
 Works on python 2.7
 Run admin.py after installing all the modules.
